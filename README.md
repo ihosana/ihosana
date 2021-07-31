@@ -3,6 +3,8 @@
 - 🔭 Trabalhando com front end e melhornado o back end...
 - 🌱 Aprendendo React Native ...
 - 📫 Busque me pelo email: ihosanaassis@outlook.com
+- O Linkedin : linkedin.com/in/ihosana-3b-667016217
+
 
  <div>
   <a href="https://github.com/ihosana">
