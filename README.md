@@ -1,9 +1,9 @@
-<h1>Hello, I'm Ihosana (●'◡'●)</h1>
+<h1>Don't tell people your dreams, show them (●'◡'●)</h1>
 
-- 🔭 Trabalhando com front end e melhorando o back end...
-- 🌱 Aprendendo React Native ...
-- 📫 Busque me pelo email: ihosanaassis@outlook.com
-- O Linkedin : linkedin.com/in/ihosana-3b-667016217
+- 🔭 Work with front end and improving o back end...
+- 🌱 Learning React Native ...
+- 📫 search me by email: ihosanaassis@outlook.com
+- The Linkedin : https://www.linkedin.com/in/ihosana-de-assis-667016217/
 
 
  <div>
