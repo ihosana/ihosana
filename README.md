@@ -4,7 +4,7 @@
 - 🌱 Learning React Native ...
 - 📫 search me by email: ihosanaassis@outlook.com
 - The Linkedin : https://www.linkedin.com/in/ihosana-de-assis-667016217/
-
+- Instagram : ihosana_assis
 
  <div>
   <a href="https://github.com/ihosana">
