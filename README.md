@@ -2,7 +2,7 @@
 
 - 🔭 Work with front end and improving o back end...
 - 🌱 Learning React Native ...
-- 📫 search me by email: ihosanaassis@outlook.com
+- 📫 search me by email: hosannaassis397@gmail.com
 - The Linkedin : https://www.linkedin.com/in/ihosana-de-assis-667016217/
 - Instagram : ihosana_assis
 
@@ -32,7 +32,7 @@
   <div> 
 
 
-  <a href = "mailto:ihosanaassis@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:hosannaassis397@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
   ![Snake animation](https://github.com/ihosana/ihosana/blob/output/github-contribution-grid-snake.svg)
  
